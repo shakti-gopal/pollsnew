@@ -1,14 +1,5 @@
-certifi==2017.4.17
-chardet==3.0.4
 dj-database-url==0.4.2
-Django==1.11.3
-docopt==0.6.2
-gunicorn==19.6.0
-idna==2.5
-pipreqs==0.4.9
+Django==1.11.4
+gunicorn==19.7.1
 pytz==2017.2
-requests==2.18.1
-urllib3==1.21.1
-virtualenv==15.1.0
 whitenoise==3.3.0
-yarg==0.1.9
